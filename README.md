@@ -71,6 +71,5 @@ Security audit project completed as part of the Google Cybersecurity Certificate
 
 
 - GitHub: https://github.com/yafong
-
-\- LinkedIn: https://www.linkedin.com/in/yann-phillot-433b31237/
+- LinkedIn: https://www.linkedin.com/in/yann-phillot-433b31237/
 
