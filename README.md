@@ -15,7 +15,7 @@ projects and technical documentation.
 
 
 
-\---
+---
 
 
 
@@ -70,7 +70,7 @@ Security audit project completed as part of the Google Cybersecurity Certificate
 
 
 
-➡️ \[View project](./projects/security-audit)
+➡️ [View project](./projects/security-audit)
 
 
 
