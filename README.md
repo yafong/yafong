@@ -3,15 +3,12 @@
 
 ## Cybersecurity \& IT Systems
 
+I am motivated by technology and cybersecurity, with a strong interest in protecting organizations, their systems and their data. I enjoy solving technical problems, learning new technologies and continuously developing my skills in IT infrastructure and cybersecurity. My goal is to become a versatile cybersecurity professional who can help organizations identify risks, protect their systems and improve their overall security.
 
 I'm currently developing my skills in cybersecurity, system administration,
 networking and IT infrastructure.
-
-
-My goal is to build practical experience through hands-on labs, security
+I want to build practical experience through hands-on labs, security
 projects and technical documentation.
-
-
 ---
 
 
