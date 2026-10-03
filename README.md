@@ -1,112 +1,76 @@
-\# Yann Phillot
+# Yann Phillot
 
 
-
-\## Cybersecurity \& IT Systems
-
+## Cybersecurity \& IT Systems
 
 
 I'm currently developing my skills in cybersecurity, system administration,
-
 networking and IT infrastructure.
 
 
-
 My goal is to build practical experience through hands-on labs, security
-
 projects and technical documentation.
 
 
-
-\---
-
+---
 
 
-\## 🔐 Cybersecurity
+## 🔐 Cybersecurity
 
 
-
-\- Security fundamentals
-
-\- Security auditing
-
-\- Risk assessment
-
-\- Network security
-
-\- Identity and Access Management
-
-\- Incident response
-
-\- Security monitoring
-
-\- GRC and security frameworks
+- Security fundamentals
+- Security auditing
+- Risk assessment
+- Network security
+- Identity and Access Management
+- Incident response
+- Security monitoring
+- GRC and security frameworks
 
 
-
-\## 🖥️ IT \& Systems
-
+## 🖥️ IT \& Systems
 
 
-\- Windows / Windows Server
-
-\- Linux
-
-\- Active Directory
-
-\- Networking
-
-\- PowerShell
-
-\- Virtualization
-
-\- Microsoft ecosystem
+- Windows / Windows Server
+- Linux
+- Active Directory
+- Networking
+- PowerShell
+- Virtualization
+- Microsoft ecosystem
 
 
-
-\## 📚 Currently Learning
-
+## 📚 Currently Learning
 
 
-\- Google Cybersecurity Certificate
-
-\- Cybersecurity fundamentals
-
-\- System and network security
-
-\- Security operations
-
-\- GRC
+- Google Cybersecurity Certificate
+- Cybersecurity fundamentals
+- System and network security
+- Security operations
+- GRC
 
 
-
-\## 🚀 Projects
-
+## 🚀 Projects
 
 
-\### Security Audit
+### Security Audit
 
 Security audit project completed as part of the Google Cybersecurity Certificate.
-
 
 
 ➡️ \[View project](./projects/security-audit)
 
 
-
-\## 📜 Certifications
-
+## 📜 Certifications
 
 
-\- Google Cybersecurity Certificate — In progress
+- Google Cybersecurity Certificate — In progress
 
 
-
-\## 📫 Contact
-
+## 📫 Contact
 
 
-\- GitHub: https://github.com/yafong
+- GitHub: https://github.com/yafong
 
 \- LinkedIn: https://www.linkedin.com/in/yann-phillot-433b31237/
 
