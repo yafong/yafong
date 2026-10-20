@@ -72,6 +72,13 @@ Security audit project completed as part of the Google Cybersecurity Certificate
 
 ➡️ [View project](./projects/security-audit)
 
+### Network traffic analysis
+
+Network traffic project completed as part of the Google Cybersecurity Certificate.
+
+
+
+➡️ [View project](./projects/Net-Log-analyse)
 
 
 ## 📜 Certifications
