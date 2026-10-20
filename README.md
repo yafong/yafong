@@ -70,7 +70,7 @@ Security audit project completed as part of the Google Cybersecurity Certificate
 
 
 
-➡️ [View project](./security-audit)
+➡️ [View project](https://github.com/yafong/security-audit)
 
 ### Network traffic analysis
 
@@ -78,7 +78,7 @@ Network traffic project completed as part of the Google Cybersecurity Certificat
 
 
 
-➡️ [View project](./Net-Log-analyse)
+➡️ [View project](https://github.com/yafong/Net-Log-analyse)
 
 
 ## 📜 Certifications
